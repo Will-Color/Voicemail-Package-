@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?><CustomObject xmlns="http://soap.sforce.com/2006/04/metadata"><fields>
+        <fullName>Left_Voicemail__c</fullName>
+        <defaultValue>false</defaultValue>
+        <description>Triggers Left Voicemail Process</description>
+        <externalId>false</externalId>
+        <label>Left Voicemail</label>
+        <type>Checkbox</type>
+    </fields></CustomObject>
